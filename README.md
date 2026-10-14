@@ -1,0 +1,1 @@
+# bangal-qr
